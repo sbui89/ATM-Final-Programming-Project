@@ -1,0 +1,8 @@
+PSEUDOCODE:
+Open account;
+
+Deposit amount; // initial amount. Perform normalization on cents//
+
+Withdrawal amount;//Perform normalization on cents//
+
+Show account balance;
